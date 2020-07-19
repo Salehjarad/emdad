@@ -23,7 +23,7 @@ function App() {
           الموقع تحت الصيانة
         </p>
       </div>
-      <footer style={{ display: 'flex', height: '6vh', justifyContent: 'center', alignItems: 'center' }}>
+      <footer className='footer-container'>
         <p style={{ fontWeight: 600 }}>Copyright © 2020 Emdad Co. All rights reserved.</p>
       </footer>
     </div>
