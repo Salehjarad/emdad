@@ -70,15 +70,16 @@
 }
 
 .info-nc {
+  font-size: 2.1rem;
   color: black;
   font-weight: 800;
+  margin-top: 30px;
 }
 
 @media only screen and (max-width: 600px) {
   .links-container {
     height: 10vh;
     padding-bottom: 10px;
-    background-color: #fb61ee;
   }
 }
 
@@ -86,6 +87,5 @@
   .links-container {
     height: 13vh;
     padding-bottom: 10px;
-    background-color: #61fb78;
   }
 }
