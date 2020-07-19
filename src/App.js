@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <img src={logo2} className='App-logo-2' alt='Emdad' />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" width={300}/>
+        <img src={logo} className="App-logo" alt="logo" width={120}/>
         <img src={logo3} alt="logo" width={300}/>
         <p>
           الموقع تحت الصيانة

@@ -5,13 +5,14 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  margin-top: 70px;
 }
 
 .App-logo-2 {
   position: absolute;
-  left: 30px;
-  top: 30px;
-  width: 120px;
+  left: 20px;
+  top: 10px;
+  width: 80px;
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
